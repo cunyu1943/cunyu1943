@@ -7,8 +7,8 @@
 ## 📲 Concact me
 
 1. 微信公众号@村雨遥
-2. 知乎@村雨遥
-3. CSDN@村雨遥
+2. [知乎@村雨遥](https://www.zhihu.com/people/cunyu1943)
+3. [CSDN@村雨遥](https://blog.csdn.net/github_39655029)
 
 ## 💻 Project
 
