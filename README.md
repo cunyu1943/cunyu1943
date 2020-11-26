@@ -9,6 +9,7 @@
 1. 微信公众号@村雨遥
 2. [知乎@村雨遥](https://www.zhihu.com/people/cunyu1943)
 3. [CSDN@村雨遥](https://blog.csdn.net/github_39655029)
+4. [掘金@村雨遥](https://juejin.cn/user/747323637904519)
 
 ## 💻 Project
 
