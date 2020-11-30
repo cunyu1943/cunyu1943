@@ -24,3 +24,4 @@
 - [amazing-softwares](https://github.com/cunyu1943/amazing-softwares)：好用高效的软件；
 - [amazing-websites](https://github.com/cunyu1943/amazing-websites)：日常提高效率的网站；
 
+![](https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png)
