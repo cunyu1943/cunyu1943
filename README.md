@@ -15,7 +15,7 @@
 
 ### 📚 Study/Interview
 
-- [CS-Docs](https://github.com/cunyu1943/CS-Docs)：✅ 致力打造完善的技术面试知识体系，涵盖Java、计算机网络、算法、数据库等，既是对自己所学知识的总结，也希望能帮助各位小伙伴快速且系统的准备面试。
+- [CS-Docs](https://github.com/cunyu1943/CS-Docs)：✅ 记录一个菜鸟 Java 程序员的成长之路
 
 
 ### 🔧 Tools
