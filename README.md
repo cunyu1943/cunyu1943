@@ -3,7 +3,8 @@
 我是村雨遥，一个希望从事 Java 后端开发的菜鸟，欢迎来到我的 Github 主页。
 
 [![](https://github-readme-stats.vercel.app/api?username=cunyu1943&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/cunyu1943)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&layout=compact)](https://github.com/cunyu1943/)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&layout=compact&theme=tokyonight)](https://github.com/cunyu1943/)
 
 ## 📲 Concact me
 
@@ -16,13 +17,19 @@
 
 ### 📚 Study/Interview
 
-- [CS-Docs](https://github.com/cunyu1943/CS-Docs)：✅ 记录一个菜鸟 Java 程序员的成长之路
+[![CS-Docs](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=CS-Docs&theme=dark)](https://github.com/cunyu1943/CS-Docs)
 
 
 ### 🔧 Tools
 
-- [amazing-books](https://github.com/cunyu1943/amazing-books)：免费电子书；
-- [amazing-softwares](https://github.com/cunyu1943/amazing-softwares)：好用高效的软件；
-- [amazing-websites](https://github.com/cunyu1943/amazing-websites)：日常提高效率的网站；
+|[![amazing-books](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-books&theme=dark)](https://github.com/cunyu1943/amazing-books) | [![amazing-softwares](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-softwares&theme=dark)](https://github.com/cunyu1943/amazing-softwares) | [![amazing-websites](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-websites&theme=dark)](https://github.com/cunyu1943/amazing-websites)|
+|-------------------|-------------------|:-----------------:|
+
+
+
+
+
+
+
 
 ![](https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png)
