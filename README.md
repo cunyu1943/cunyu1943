@@ -27,9 +27,9 @@
 
 
 
+<img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" height="200"  style="zoom:50%;" />
 
 
 
 
 
-![](https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png)
