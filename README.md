@@ -2,7 +2,8 @@
 
 我是村雨遥，一个希望从事 Java 后端开发的菜鸟，欢迎来到我的 Github 主页。
 
-[![cunyu1943's github stats](https://github-readme-stats.vercel.app/api?username=cunyu1943&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=cunyu1943&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/cunyu1943)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&layout=compact)](https://github.com/cunyu1943/)
 
 ## 📲 Concact me
 
