@@ -7,9 +7,9 @@
 - [掘金@村雨遥](https://juejin.cn/user/747323637904519)
 
 ## ✨ 年度总结
-[![](https://github-readme-stats.vercel.app/api?username=cunyu1943&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/cunyu1943)
+[![](https://github-readme-stats.vercel.app/api?username=cunyu1943&count_private=true&show_icons=true&theme=tokyonight&locale=cn)](https://github.com/cunyu1943)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&layout=compact&theme=tokyonight)](https://github.com/cunyu1943/)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&layout=compact&theme=tokyonight&locale=cn)](https://github.com/cunyu1943/)
 
 ## 💻 作品
 
