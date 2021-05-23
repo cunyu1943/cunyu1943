@@ -8,13 +8,15 @@
 
 ## ✨ 年度总结
 
-| [![](https://github-readme-stats.vercel.app/api?username=cunyu1943&count_private=true&show_icons=true&theme=tokyonight&locale=cn)](https://github.com/cunyu1943) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&layout=compact&theme=tokyonight&locale=cn)](https://github.com/cunyu1943/) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+[![](https://github-readme-stats.vercel.app/api?username=cunyu1943&count_private=true&show_icons=true&theme=tokyonight&locale=cn)](https://github.com/cunyu1943)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&layout=compact&theme=tokyonight&locale=cn)](https://github.com/cunyu1943/)
 
 ## 💻 我的开源项目
 
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeAvengers&repo=code-resources&theme=dark)](https://github.com/TheCodeAvengers/code-resources) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeAvengers&repo=code-books&theme=dark)](https://github.com/TheCodeAvengers/code-books) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeAvengers&repo=code-websites&theme=dark)](https://github.com/TheCodeAvengers/code-websites) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeAvengers&repo=code-softwares&theme=dark)](https://github.com/TheCodeAvengers/code-softwares) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs) |                                                              |
 
 
