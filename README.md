@@ -14,10 +14,7 @@
 
 ## 💻 我的开源项目
 
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeAvengers&repo=code-resources&theme=dark)](https://github.com/TheCodeAvengers/code-resources) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeAvengers&repo=code-books&theme=dark)](https://github.com/TheCodeAvengers/code-books) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeAvengers&repo=code-websites&theme=dark)](https://github.com/TheCodeAvengers/code-websites) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeAvengers&repo=code-softwares&theme=dark)](https://github.com/TheCodeAvengers/code-softwares) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs) |                                                              |
+[![](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs)
 
 
 
