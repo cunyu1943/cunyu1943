@@ -12,12 +12,5 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&layout=compact&theme=tokyonight&locale=cn)](https://github.com/cunyu1943/)
 
-## 💻 我的开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs)
-
-
-
-
 
 <img src="https://z3.ax1x.com/2021/05/21/g7KHkn.png" width="30%" />
