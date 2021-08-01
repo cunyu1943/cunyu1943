@@ -38,6 +38,16 @@
 
 ## 文章目录（善用 Ctrl + F）
 
+### 实战演练
+
+-   [学生成绩管理系统，附源码](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247492955&idx=1&sn=8d9013bbfab2450f719937c562940a8e&chksm=e87b912ddf0c183b217721db06e8a880cdf319df65315a55a9a0557a43b84924eff7306cabbe&scene=178&cur_album_id=1859811081213247489#rd)
+
+-   [新鲜出炉的点菜系统（附源码）](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247494096&idx=1&sn=52bac11a181b6fe3e3fe6e31ba5776ec&chksm=e87b9da6df0c14b00586078ea8652cd0a387a4b7e5cb47d4ec32177872bf1f4f48e52a48535f&scene=178&cur_album_id=1859811081213247489#rd)
+
+-   [徒手撸一个记账本（附源码）](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247494120&idx=1&sn=ae45e498ccdab4676119014dd154ca6b&chksm=e87b9d9edf0c1488cf03441dacb724a361e30c048b273b0a4ecb698e79c32bc82a8fc99d006e&scene=178&cur_album_id=1624161604734877700#rd)
+
+    
+
 ## 鸣谢
 
 <p align="center"><img src="imgs/thx.gif" width="300"/></p>
