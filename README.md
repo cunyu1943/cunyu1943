@@ -40,7 +40,6 @@
 
 ### Java 从入坑到放弃
 
-- 
 - [操作符](https://t.1yb.co/xx3A)
 - [控制流程](https://t.1yb.co/xx3x)
 - [数组操作的奇技淫巧](https://t.1yb.co/xx3p)
@@ -54,7 +53,6 @@
 ### Java 面试直通车
 
 -   [Java 异常面试总结！](https://t.1yb.co/xx2o)
--   
 
 ### 数据结构与算法
 
@@ -75,7 +73,6 @@
 -   [（2021 最新版）IntelliJ IDEA 下载安装及配置教程](https://mp.weixin.qq.com/s/F_gTxCnKyJigI6yh_qfDlg)
 -   [Hexo + Github Pages 博客搭建教程](https://t.1yb.co/xx4N)
 -   [一招搞定电子签名](https://t.1yb.co/xx4u)
--   
 
 ## 鸣谢
 
