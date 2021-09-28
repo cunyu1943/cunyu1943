@@ -66,9 +66,17 @@
 
 **[村雨遥的文章合辑](https://www.yuque.com/cunyu1943/java-rookie/)**
 
+## 华为云产品
+
+需要云产品的大家可以点击下面的注册地址或者扫描二维码，获取最新优惠！
+
+- 注册地址：[华为云官网](https://account.huaweicloud.com/obmgr/invitation/invitation.html?bpName=000000010000000286D150A555448DB6D05E99F423FF66FC4BDA8E6671BDDEBBF4634C72DF798856277171ED818B98E14CFE647B97D33DAAF253B39519C4647D879489700428014D&inviteCode=00000001000000028EE2EC66892AB1B7D108A0B786D99A1C8015529CE8495C138D202EE5B7F97289&bindType=1&isDefault=1)
+
+<p align="center"><img src="https://user-images.githubusercontent.com/22308895/135012798-59f9895a-c129-4cc4-9e62-8e7ba637a4ca.gif" width="200"/></p>
+
 ## 鸣谢
 
-<p align="center"><img src="imgs/thx.gif" width="300"/></p>
+<p align="center"><img src="imgs/thx.gif" width="200"/></p>
 
 加我个人微信回复 **⌈加群⌋** 或者关注公众号，后台回复 **⌈加群⌋** ，我拉你进入我的读者交流群。群里回经常分享一些干货文章，编程资源等。
 
