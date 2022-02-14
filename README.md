@@ -8,7 +8,7 @@
 
 ## 简介
 
-![](https://komarev.com/ghpvc/?username=cunyu1943&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=cunyu1943&color=brightgreen) [![](https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1%E7%BE%A4-red)](https://raw.githubusercontent.com/cunyu1943/ebooks/main/img/%E5%BE%AE%E4%BF%A1%E7%BE%A4.png) [![](https://img.shields.io/badge/公众号-村雨遥-green)](https://raw.githubusercontent.com/cunyu1943/ebooks/main/img/%E5%85%AC%E4%BC%97%E5%8F%B7.png) [![](https://img.shields.io/badge/CSDN-%E6%9D%91%E9%9B%A8%E9%81%A5-important)](https://cunyu1943.blog.csdn.net) [![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E6%9D%91%E9%9B%A8%E9%81%A5-blue)](https://juejin.cn/user/747323637904519) [![](https://img.shields.io/badge/Github-%E5%85%8D%E8%B4%B9%E7%BC%96%E7%A8%8B%E7%94%B5%E5%AD%90%E4%B9%A6-ff69b4)](https://github.com/cunyu1943/ebooks#/)
 
 👋，我是 **村雨遥**，欢迎来到我的 Github 主页。你可以通过以下的方式找到我！
 
