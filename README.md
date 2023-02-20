@@ -45,6 +45,6 @@
 ## 总结
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cunyu1943&count_private=true&show_icons=true&theme=radical&locale=cn&line_height=30" width="300">
-  <img  src="https://activity-graph.herokuapp.com/graph?username=cunyu1943&theme=redical&show_icons=true&locale=cn&line_height=30" width="400">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cunyu1943&count_private=true&theme=redical&show_icons=true&locale=cn&layout=compact&line_height=30" width="300">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&theme=redical&show_icons=true&locale=cn&layout=compact">
 </p>
