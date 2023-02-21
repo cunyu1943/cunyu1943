@@ -16,6 +16,10 @@
     </a>
 </p>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=cunyu1943&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="cunyu1943" />
+</p>
+
 |                                                              |                                                              |
 | ------------------------------------------------------------ | :----------------------------------------------------------- |
 | [🙊 个人微信](./imgs/wechat.gif)                              | [✨ 微信公众号：**⌈村雨遥⌋**](./imgs/wepublic.gif)            |
