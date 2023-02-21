@@ -4,9 +4,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=23&pause=1000&color=15485F&center=true&vCenter=true&width=500&lines=%F0%9F%8E%88+%E5%90%BE%E7%94%9F%E4%B9%9F%E6%9C%89%E6%B6%AF%EF%BC%8C%E8%80%8C%E7%9F%A5%E4%B9%9F%E6%97%A0%E6%B6%AF%E3%80%82" alt="Typing SVG" /></a>
 </p>
 
-## 简介
-
-![](https://komarev.com/ghpvc/?username=cunyu1943&color=brightgreen) [![](https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1%E7%BE%A4-red)](https://raw.githubusercontent.com/cunyu1943/ebooks/main/img/%E5%BE%AE%E4%BF%A1%E7%BE%A4.png) [![](https://img.shields.io/badge/公众号-村雨遥-green)](https://raw.githubusercontent.com/cunyu1943/ebooks/main/img/%E5%85%AC%E4%BC%97%E5%8F%B7.png) [![](https://img.shields.io/badge/CSDN-%E6%9D%91%E9%9B%A8%E9%81%A5-important)](https://cunyu1943.blog.csdn.net) [![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E6%9D%91%E9%9B%A8%E9%81%A5-blue)](https://juejin.cn/user/747323637904519) [![](https://img.shields.io/badge/Github-%E5%85%8D%E8%B4%B9%E7%BC%96%E7%A8%8B%E7%94%B5%E5%AD%90%E4%B9%A6-ff69b4)](https://github.com/cunyu1943/ebooks#/)
+<p align="center">
+    <a title="Github Total Stars" target="_blank" href="https://github.com/cunyu1943">
+        <img src="https://img.shields.io/github/stars/cunyu1943.svg?logo=star&label=Total%20Stars&color=success" />
+    </a>
+    <a title="Github Followers" target="_blank" href="https://github.com/cunyu1943">
+        <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey=cunyu1943&color=blue&logo=github&longCache=true" />
+    </a>
+    <a title="My Blog Site" target="_blank" href="https://cunyu1943.github.io/">
+        <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-cunyu1943.github.io-orange" />
+    </a>
+</p>
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | :----------------------------------------------------------- |
