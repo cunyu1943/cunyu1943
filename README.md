@@ -1,16 +1,12 @@
+<h3 align="center">Hi 👋, I'm cunyu1943 (村雨遥) 🦊</h3>
 
-
-<p align = "center">
-
-  <img src = "https://readme-typing-svg.herokuapp.com?font=Parisienne&center=true&vCenter=true&multiline=true&height=60&lines=There+is+only+one+heroism+in+the+world%EF%BC%9A;to+see+the+world+as+it+is+and+to+love+it">
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=23&pause=1000&color=15485F&center=true&vCenter=true&width=500&lines=%F0%9F%8E%88+%E5%90%BE%E7%94%9F%E4%B9%9F%E6%9C%89%E6%B6%AF%EF%BC%8C%E8%80%8C%E7%9F%A5%E4%B9%9F%E6%97%A0%E6%B6%AF%E3%80%82" alt="Typing SVG" /></a>
 </p>
-
 
 ## 简介
 
 ![](https://komarev.com/ghpvc/?username=cunyu1943&color=brightgreen) [![](https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1%E7%BE%A4-red)](https://raw.githubusercontent.com/cunyu1943/ebooks/main/img/%E5%BE%AE%E4%BF%A1%E7%BE%A4.png) [![](https://img.shields.io/badge/公众号-村雨遥-green)](https://raw.githubusercontent.com/cunyu1943/ebooks/main/img/%E5%85%AC%E4%BC%97%E5%8F%B7.png) [![](https://img.shields.io/badge/CSDN-%E6%9D%91%E9%9B%A8%E9%81%A5-important)](https://cunyu1943.blog.csdn.net) [![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E6%9D%91%E9%9B%A8%E9%81%A5-blue)](https://juejin.cn/user/747323637904519) [![](https://img.shields.io/badge/Github-%E5%85%8D%E8%B4%B9%E7%BC%96%E7%A8%8B%E7%94%B5%E5%AD%90%E4%B9%A6-ff69b4)](https://github.com/cunyu1943/ebooks#/)
-
-👋，我是 **村雨遥**，欢迎来到我的 Github 主页。你可以通过以下的方式找到我！
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | :----------------------------------------------------------- |
@@ -44,7 +40,12 @@
 
 ## 总结
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cunyu1943&count_private=true&theme=redical&show_icons=true&locale=cn&layout=compact&line_height=30" width="300">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&theme=redical&show_icons=true&locale=cn&layout=compact">
-</p>
+<div align="center">
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=cunyu1943&count_private=true&show_icons=true&locale=cn" />
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&layout=compact&langs_count=8&locale=cn" />
+    <span>&emsp;&emsp;</span>
+</div>
+
+
