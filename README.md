@@ -54,9 +54,13 @@
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=cunyu1943&count_private=true&show_icons=true&locale=cn" />
+    <img height="175px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cunyu1943&theme=2077" />
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&layout=compact&langs_count=8&locale=cn" />
+</div>
+<div align="center">
+    <img height="175px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cunyu1943&theme=2077" />
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cunyu1943&theme=2077&utcOffset=8" />
     <span>&emsp;&emsp;</span>
 </div>
 
