@@ -30,7 +30,7 @@
 
 ## 文章合辑（善用 Ctrl + F）
 
-**[JavaPark「Java 自学指南」](https://cunyu1943.github.io/JavaPark/)**
+**[JavaPark「Java 自学指南」](https://cunyu1943.github.io/)**
 
 ## 华为云产品
 
