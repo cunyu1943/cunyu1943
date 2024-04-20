@@ -1,9 +1,9 @@
 ## 👨‍💻 我是村雨遥
 
-- ✍️ 干货：[公众号：村雨遥](imgs/wepublic.gif)
+- ✍️ 干货：[公众号：村雨遥](imgs/wechatpublic.svg)
 - 📝 博客：[JavaPark](https://cunyu1943.github.io)
 - 🕊️ 语雀：[数字花园](https://yuque.com/cunyu1943)
-- 💌 微信：[cunyu1943](imgs/wechat.gif) - 请备注来意
+- 💌 微信：[coder_cunYu](imgs/wechat.svg) - 请备注来意
 
 
 
