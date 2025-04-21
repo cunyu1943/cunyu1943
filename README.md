@@ -1,9 +1,21 @@
-## 👨‍💻 我是村雨遥
+## 👋 Hi there 
 
-- ✍️ 干货：[公众号：村雨遥](imgs/wechatpublic.svg)
+[![HitCount](https://views.whatilearened.today/views/github/cunyu1943/cunyu1943.svg)](https://github.com/cunyu1943)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%B8%8D%E8%A6%81%E5%93%80%E6%B1%82%EF%BC%8C%E5%AD%A6%E4%BC%9A%E4%BA%89%E5%8F%96%EF%BC%9B%E8%8B%A5%E6%98%AF%E5%A6%82%E6%AD%A4%EF%BC%8C%E7%BB%88%E6%9C%89%E6%89%80%E8%8E%B7%E3%80%82)](https://git.io/typing-svg)
+
+</div>
+
+## 🧰 常用工具
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,idea,mysql,redis,nginx,maven,linux,ubuntu,windows,md,git,github,gitlab,vscode,postman,eclipse&theme=dark)](https://github.com/cunyu1943)
+
+<!-- - ✍️ 干货：[公众号：村雨遥](imgs/wechatpublic.svg)
 - 📝 博客：[JavaPark](https://cunyu1943.github.io)
 - 🕊️ 语雀：[数字花园](https://yuque.com/cunyu1943)
-- 💌 微信：[coder_cunYu](imgs/wechat.svg) - 请备注来意
+- 💌 微信：[coder_cunYu](imgs/wechat.svg) - 请备注来意 -->
 
 
 
