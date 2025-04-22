@@ -9,10 +9,11 @@
 </div>
 
 ## 🕊️ 欢迎到访
-- ✍️ 干货：[公众号：村雨遥](imgs/wechatpublic.jpg)
+
+- ✍️ 干货：[公众号：村雨遥](https://raw.githubusercontent.com/cunyu1943/cunyu1943/refs/heads/main/imgs/wechatpublic.jpg)
 - 📝 博客：[JavaPark](https://cunyu1943.github.io)
 - 🕊️ 语雀：[数字花园](https://yuque.com/cunyu1943)
-- 💌 微信：[coder_cunYu](imgs/wechat.jpg) - 请备注来意
+- 💌 微信：[coder_cunYu](https://raw.githubusercontent.com/cunyu1943/cunyu1943/refs/heads/main/imgs/wechat.jpg) - 请备注来意
 
 
 ## 🧰 常用工具
@@ -21,13 +22,13 @@
 
 
 
+## 🧮 数据统计
 
 <div align="center">
 
 ![](https://github-immortality.vercel.app/api?username=cunyu1943)
 
 [![村雨遥's github stats](https://github-readme-stats.vercel.app/api?username=cunyu1943&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=cunyu1943&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=cunyu1943&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
-
 
 </div>
 
