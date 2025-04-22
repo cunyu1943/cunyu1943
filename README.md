@@ -8,14 +8,18 @@
 
 </div>
 
+## 🕊️ 欢迎到访
+- ✍️ 干货：[公众号：村雨遥](imgs/wechatpublic.jpg)
+- 📝 博客：[JavaPark](https://cunyu1943.github.io)
+- 🕊️ 语雀：[数字花园](https://yuque.com/cunyu1943)
+- 💌 微信：[coder_cunYu](imgs/wechat.jpg) - 请备注来意
+
+
 ## 🧰 常用工具
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,mysql,redis,nginx,maven,linux,ubuntu,windows,md,git,github,gitlab,vscode,postman,eclipse&theme=dark)](https://github.com/cunyu1943)
 
-<!-- - ✍️ 干货：[公众号：村雨遥](imgs/wechatpublic.svg)
-- 📝 博客：[JavaPark](https://cunyu1943.github.io)
-- 🕊️ 语雀：[数字花园](https://yuque.com/cunyu1943)
-- 💌 微信：[coder_cunYu](imgs/wechat.svg) - 请备注来意 -->
+
 
 
 <div align="center">
@@ -37,7 +41,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/22308895/135012798-59f9895a-c129-4cc4-9e62-8e7ba637a4ca.gif" width="150"/></p>
 
 
-## 📈 目前的总结
+<!-- ## 📈 目前的总结
 
 <div align="center">
     <span>&emsp;&emsp;</span>
@@ -49,6 +53,6 @@
     <span>&emsp;&emsp;</span>
     <img height="175px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cunyu1943&theme=2077&utcOffset=8" />
     <span>&emsp;&emsp;</span>
-</div>
+</div> -->
 
 
