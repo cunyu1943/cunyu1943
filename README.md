@@ -41,6 +41,15 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/22308895/135012798-59f9895a-c129-4cc4-9e62-8e7ba637a4ca.gif" width="150"/></p>
 
+## 🎈 号外 
+
+最近，公众号之外，建立了微信交流群，不定期会在群里分享各种资源（影视、IT 编程、考试提升……）&知识。如果有需要，可以**扫码或者后台添加小编微信备注入群**。进群后**优先看群公告**，**呼叫群中【资源分享小助手】**，还能免费帮找资源哦～
+
+
+<center>
+<img src="imgs/wxgroup.jpg" width="150" />
+</center>
+
 
 <!-- ## 📈 目前的总结
 
